@@ -342,3 +342,15 @@ span.menu:hover{
 .projtit:hover{
     opacity: 0.5;
 }
+
+.mmm:link{
+    color: black;
+}
+
+.mmm:visited{
+    color: black;
+}
+
+.mmm:active{
+    color: black;
+}
